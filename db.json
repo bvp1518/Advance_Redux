@@ -1,0 +1,215 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "3da2",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 2,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 2
+    },
+    {
+      "id": "80e0",
+      "items": [],
+      "totalQuantity": 0
+    },
+    {
+      "id": "358e",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 1,
+          "totalPrice": 6,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 1
+    },
+    {
+      "id": "b55a",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 2,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 2
+    },
+    {
+      "id": "3942",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 3,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 3
+    },
+    {
+      "id": "8e52",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 3,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 3
+    },
+    {
+      "id": "61c0",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 4,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 4
+    },
+    {
+      "id": "bacc",
+      "items": [],
+      "totalQuantity": 0
+    },
+    {
+      "id": "3f6d",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 1,
+          "totalPrice": 6,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 1
+    },
+    {
+      "id": "aaf0",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 2,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 2
+    },
+    {
+      "id": "1c8c",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 3,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 3
+    },
+    {
+      "id": "329e",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 4,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 4
+    },
+    {
+      "id": "e84a",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 5,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 5
+    },
+    {
+      "id": "5149",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 6,
+          "totalPrice": null,
+          "name": "My First Book"
+        }
+      ],
+      "totalQuantity": 6
+    },
+    {
+      "id": "3614",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 6,
+          "totalPrice": null,
+          "name": "My First Book"
+        },
+        {
+          "id": "p2",
+          "price": 4,
+          "quantity": 1,
+          "totalPrice": 4,
+          "name": "My second Book"
+        }
+      ],
+      "totalQuantity": 7
+    },
+    {
+      "id": "57b3",
+      "items": [
+        {
+          "id": "p1",
+          "price": 6,
+          "quantity": 6,
+          "totalPrice": null,
+          "name": "My First Book"
+        },
+        {
+          "id": "p2",
+          "price": 4,
+          "quantity": 2,
+          "totalPrice": null,
+          "name": "My second Book"
+        }
+      ],
+      "totalQuantity": 8
+    }
+  ]
+}
